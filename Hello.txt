@@ -1,4 +1,8 @@
 print (Hello world)
 print (Hello everybody)
 print (Hi-hi-hi)
+<<<<<<< HEAD
 Print(How are you?)
+=======
+print (My name is Max)
+>>>>>>> master
